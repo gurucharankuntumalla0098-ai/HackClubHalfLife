@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.52h | 4 |
+| Week 1 | Tier 1 | 14.77h | 4 |
 
 ## Contents
 
@@ -53,7 +53,7 @@ after finishing the starbie shape to the proper shape i researched the remaining
 
 ### 2026-10-11 – ![image_2026-10-11_204040813](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/494b43b7c17654b475aff01929e48b04b6cbeb4e69c1eea4f23b72b1d698f61a.png)
 
-**1.5h**
+**0.75h**
 
 ![image_2026-10-11_204040813](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/494b43b7c17654b475aff01929e48b04b6cbeb4e69c1eea4f23b72b1d698f61a.png)
 
