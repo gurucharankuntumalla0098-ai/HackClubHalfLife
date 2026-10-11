@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.82h | 3 |
+| Week 1 | Tier 1 | 14.02h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-10 – Work session, got the pcb lined up and designed as best I know how for now, plugged the code, in, used the extra hours to just probe around see all the features of the software and try continue the pr
 
-**7.72h**
+**7.92h**
 
 Work session, got the pcb lined up and designed as best I know how for now, plugged the code, in, used the extra hours to just probe around see all the features of the software and try continue the project
 
