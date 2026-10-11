@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.22h | 3 |
+| Week 1 | Tier 1 | 13.62h | 3 |
 
 ## Contents
 
 1. [2026-10-10 – Work session, got the pcb lined up and designed as best I know how for now, plugged the code, in, used the extra hours to just probe around see all the features of the software and try continue the pr](#2026-10-10-work-session-got-the-pcb-lined-up-and-designed-as)
 2. [2026-10-11 – ![image_2026-10-11_163217883](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/44a9d327bb5c9b3c092b4dea508529cc810ef9ae9bbbaa3578a863acccb60f02.png)](#2026-10-11-image2026-10-11163217883httpshalflifehackclub-ass)
-3. [2026-10-11 – after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent to unlock the next funding teir, the microco](#2026-10-11-after-finishing-the-starbie-shape-to-the-proper-s)
+3. [2026-10-11 – after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent reaching 14+ to unlock the next funding teir](#2026-10-11-after-finishing-the-starbie-shape-to-the-proper-s)
 
 ## Design
 
@@ -40,11 +40,11 @@ Spent the time on the time lapse using ai to check my reasoning for any logical 
 
 [Timelapse](https://lookout.hackclub.com/api/media/15d59fb0-2f28-4813-9ce2-f849f457266b/video.mp4)
 
-### 2026-10-11 – after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent to unlock the next funding teir, the microco
+### 2026-10-11 – after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent reaching 14+ to unlock the next funding teir
 
-**2.65h**
+**3.05h**
 
-after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent to unlock the next funding teir, the microcontroller alone was quite expensive
+after finishing the starbie shape to the proper shape i researched the remaining 2 parts of the starbie that i need, finishing 13 hours of total time spent reaching 14+ to unlock the next funding teir, the microcontroller alone was quite expensive takking up half the teir 3 cost
 
 ![image_2026-10-11_190239080](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/b090cc6fb1874fd2f2dd650ab9c8e3372194453b0b4974b6527c8080f2a60f86.png)
 
