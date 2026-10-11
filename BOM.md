@@ -19,7 +19,7 @@
 | [DHT11](https://www.ebay.co.uk/itm/226914947532?var=0&mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5338268676&toolid=10044&ff=11&loc_physical_ms=9044941&adtype=pla&customid=CjwKCAjw56zWBhB0EiwAdPOQOYCOoEPF8QUON1DMvmOh5kiTnHYTauVKpsaYXXZJ-fbRmrjGzPwykhoCaE8QAvD_BwE&gclid=CjwKCAjw56zWBhB0EiwAdPOQOYCOoEPF8QUON1DMvmOh5kiTnHYTauVKpsaYXXZJ-fbRmrjGzPwykhoCaE8QAvD_BwE.amazon.co.uk/Temperature-Humidity-Raspberry-Arduino-Microcontrollers/dp/B0CN5RP8SL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1QRSPGN0A1D2U) | Environmental sensor | 1 | $1.33 | $1.33 | [EBAY](https://www.ebay.co.uk/itm/226914947532?var=0&mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5338268676&toolid=10044&ff=11&loc_physical_ms=9044941&adtype=pla&customid=CjwKCAjw56zWBhB0EiwAdPOQOYCOoEPF8QUON1DMvmOh5kiTnHYTauVKpsaYXXZJ-fbRmrjGzPwykhoCaE8QAvD_BwE&gclid=CjwKCAjw56zWBhB0EiwAdPOQOYCOoEPF8QUON1DMvmOh5kiTnHYTauVKpsaYXXZJ-fbRmrjGzPwykhoCaE8QAvD_BwE.amazon.co.uk/Temperature-Humidity-Raspberry-Arduino-Microcontrollers/dp/B0CN5RP8SL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1QRSPGN0A1D2U) |
 | [XIAO-ESP32-C3-SMD](https://www.universal-solder.ca/product/seeed-studio-xiao-esp32c3/) | The microcontroller of the project | 1 | $9.07 | $9.07 | [Universal solder](https://www.universal-solder.ca/product/seeed-studio-xiao-esp32c3/) |
 | **Parts subtotal** | — | — | — | **$30.81** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.81** | — |
+| **Tax & shipping** | — | — | — | **$39.00** | — |
+| **Total** | — | — | — | **$69.81** | — |
 
-**$0.81 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$39.81 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
