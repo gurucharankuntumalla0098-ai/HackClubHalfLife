@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.62h | 3 |
+| Week 1 | Tier 1 | 13.82h | 3 |
 
 ## Contents
 
@@ -30,7 +30,7 @@ Work session, got the pcb lined up and designed as best I know how for now, plug
 
 ### 2026-10-11 – ![image_2026-10-11_163217883](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/44a9d327bb5c9b3c092b4dea508529cc810ef9ae9bbbaa3578a863acccb60f02.png)
 
-**2.85h**
+**3.05h**
 
 ![image_2026-10-11_163217883](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xYoBqFAEScidD3bxyQOvH1bOWQrBEUi2/44a9d327bb5c9b3c092b4dea508529cc810ef9ae9bbbaa3578a863acccb60f02.png)
 
